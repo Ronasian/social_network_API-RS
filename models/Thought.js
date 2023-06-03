@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const formatDate = require('../utils/dateFormat');
 
 const thoughtSchema = new mongoose.Schema(
   {
