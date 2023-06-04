@@ -26,7 +26,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Usage
-Users must access the application file directory in the terminal and use 'node index.js' to initiate the program.
+Users must access the application file directory in the terminal, install nodes using 'npm i', then use 'node server.js' to run the server.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
